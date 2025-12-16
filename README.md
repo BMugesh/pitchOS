@@ -241,9 +241,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: support@pitchos.ai
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/pitchos/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/pitchos/discussions)
+- 📧 Email: mkbm1307@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/BMugesh/pitchos/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/BMugesh/pitchos/discussions)
 
 ---
 
