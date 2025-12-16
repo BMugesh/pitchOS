@@ -1,0 +1,44 @@
+{
+  "name": "pitchos",
+  "version": "1.0.0",
+  "description": "An omniscient AI designed to evaluate startup pitch decks like a seasoned VC",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "eslint src/",
+    "lint:fix": "eslint src/ --fix"
+  },
+  "keywords": [
+    "startup",
+    "pitch-deck",
+    "vc",
+    "analysis",
+    "ai",
+    "evaluation"
+  ],
+  "author": "PitchOS Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "helmet": "^7.1.0",
+    "dotenv": "^16.3.1",
+    "@google/generative-ai": "^0.2.1",
+    "joi": "^17.11.0",
+    "winston": "^3.11.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "jest": "^29.7.0",
+    "eslint": "^8.55.0",
+    "supertest": "^6.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
